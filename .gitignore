@@ -1,0 +1,11 @@
+venv/ 
+frontend/node_modules/ 
+backend/.env 
+__pycache__/ 
+*.pyc 
+backend/*.db 
+backend/vector_store/ 
+backend/uploads/ 
+.DS_Store 
+*.log 
+write_files.py

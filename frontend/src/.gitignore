@@ -1,0 +1,12 @@
+backend/.env
+__pycache__/
+*.pyc
+venv/
+backend/*.db
+backend/vector_store/
+backend/uploads/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+*.log
+write_files.py
